@@ -4,10 +4,17 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
   "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@nrwl/express": "^15.9.2",
     "@nrwl/js": "15.7.1",
+    "@nrwl/nest": "15.7.1",
+    "@nrwl/node": "15.7.1",
     "@nrwl/workspace": "15.7.1",
+    "@nx-extend/playwright": "^1.2.1",
+    "@nx-extend/strapi": "^3.5.1",
+    "@nx-extend/terraform": "^0.0.4",
+    "json-server": "^0.17.3",
     "nx": "15.7.1",
     "prettier": "^2.6.2",
     "typescript": "~4.8.2"
