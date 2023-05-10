@@ -1,4 +1,3 @@
-
 REVOKE CREATE ON DATABASE "productionplanning_data_db" FROM PUBLIC;
 REVOKE CREATE ON SCHEMA public FROM PUBLIC;
 

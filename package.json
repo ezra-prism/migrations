@@ -2,7 +2,9 @@
   "name": "local-apollo",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    
+  },
   "private": true,
   "devDependencies": {
     "@faker-js/faker": "^7.6.0",
