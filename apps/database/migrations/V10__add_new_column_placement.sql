@@ -1,0 +1,2 @@
+﻿
+ALTER TABLE IF EXISTS placement ADD COLUMN population numeric NOT NULL DEFAULT 0;

@@ -1,0 +1,1 @@
+ALTER TABLE placement ADD COLUMN age numeric NOT NULL DEFAULT 0;
